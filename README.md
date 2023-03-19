@@ -3,7 +3,9 @@
 
 动态材质分30FPS, 60FPS, 165FPS, 请根据自己的设备性能自行选择
 
-<img src=".\最终输出档\[30FPS]gdlike_connected_minos.gif" alt="[30FPS]gdlike_connected_minos" style="zoom:25%;" /><img src=".\最终输出档\[60FPS]gdlike_connected_minos.gif" alt="[60FPS]gdlike_connected_minos" style="zoom:25%;" /><img src=".\最终输出档\[165FPS]gdlike_connected_minos.gif" alt="[165FPS]gdlike_connected_minos" style="zoom:25%;" />
+<center class="half">
+  <img src=".\最终输出档\gdlike_connected_minos.png" width="200"/><img src=".\最终输出档\[165FPS]gdlike_connected_minos.gif" width="200"/>
+</center>
 
 如果使用了queue, grid材质请务必去 CONFIG-GAMEPLAY 把GRID VISIBILITY 项的数值改到95(如果要自定义其他数值请同步修改queue文件中填充层的透明度)
 
@@ -21,9 +23,9 @@
 
 署名信息:
 
-原始作者: 加加 (NitenTeria/Fragmented/TANXLAYER)
+原始作者: 加加 ([Twitter - ナイテン](twitter.com/Niten1033)/[YouTube - NitenTeria](www.youtube.com/@Niten1033)/[Jstris - Fragmented](jstris.jezevec10.com/u/Fragmented)/[TETR.IO - TANXLAYER](ch.tetr.io/u/TANXLAYER))
 
-重绘, 后期着色: MianSoft
+重绘, 动画: MianSoft
 
 参考来源: 加加(感谢加加愿意给我原始档作为参考><)
 
