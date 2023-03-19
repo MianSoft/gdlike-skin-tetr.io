@@ -1,0 +1,17 @@
+Adobe After Effects v22.2 Windows 64 为项目“gdlike_connected_minos.aep”渲染日志
+
+渲染在“1:05:44”的“2023/3/18”上开始
+
+  “2023/3/18”“1:05:44”: 开始合成“合成 1”。
+
+  输出到: C:\Users\admin\Desktop\工程\gdlike_connected_minos_AME\PNG序列\gdlike_connected_minos_[#####].png    “2023/3/18”“1:05:51”: 完成的合成“合成 1”。
+
+
+  “2023/3/18”“1:05:51”: 开始合成“合成 1”。
+
+  输出到: C:\Users\admin\Desktop\工程\gdlike_connected_minos_AME\gdlike_connected_minos.mov    “2023/3/18”“1:05:54”: 完成的合成“合成 1”。
+
+
+  已用总时间: 10 秒
+日志在“1:05:54”的“2023/3/18”上关闭
+

@@ -1,0 +1,37 @@
+Adobe After Effects v22.2 Windows 64 为项目“gdlike_connected_minos.aep”渲染日志
+
+渲染在“1:26:25”的“2023/3/18”上开始
+
+  “2023/3/18”“1:26:25”: 开始合成“合成 1”。
+
+  输出到: C:\Users\admin\Desktop\工程\gdlike_connected_minos_AME\PNG序列-165FPS\合成 1-165FPS_[#####].png    “2023/3/18”“1:26:32”: 完成的合成“合成 1”。
+
+
+  “2023/3/18”“1:26:32”: 开始合成“合成 1”。
+
+  输出到: C:\Users\admin\Desktop\工程\gdlike_connected_minos_AME\PNG序列-60FPS\合成 1-60FPS_[#####].png    “2023/3/18”“1:26:35”: 完成的合成“合成 1”。
+
+
+  “2023/3/18”“1:26:35”: 开始合成“合成 1”。
+
+  输出到: C:\Users\admin\Desktop\工程\gdlike_connected_minos_AME\PNG序列-30FPS\合成 1-30FPS_[#####].png    “2023/3/18”“1:26:36”: 完成的合成“合成 1”。
+
+
+  “2023/3/18”“1:26:36”: 开始合成“合成 1”。
+
+  输出到: C:\Users\admin\Desktop\工程\gdlike_connected_minos_AME\合成1-165FPS.mov    “2023/3/18”“1:26:40”: 完成的合成“合成 1”。
+
+
+  “2023/3/18”“1:26:40”: 开始合成“合成 1”。
+
+  输出到: C:\Users\admin\Desktop\工程\gdlike_connected_minos_AME\PNG序列-165FPS\合成 1-60FPS.mov    “2023/3/18”“1:26:42”: 完成的合成“合成 1”。
+
+
+  “2023/3/18”“1:26:42”: 开始合成“合成 1”。
+
+  输出到: C:\Users\admin\Desktop\工程\gdlike_connected_minos_AME\PNG序列-165FPS\合成 1-30FPS.mov    “2023/3/18”“1:26:42”: 完成的合成“合成 1”。
+
+
+  已用总时间: 17 秒
+日志在“1:26:42”的“2023/3/18”上关闭
+
