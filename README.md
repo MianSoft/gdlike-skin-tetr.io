@@ -9,7 +9,7 @@
 
 如果使用了queue, grid材质请务必去 CONFIG-GAMEPLAY 把GRID VISIBILITY 项的数值改到95(如果要自定义其他数值请同步修改queue文件中填充层的透明度)
 
-如何安装:
+## 如何安装:
 
 先安装 [TETR.IO PLUS](https://gitlab.com/UniQMG/tetrio-plus)
 
@@ -21,7 +21,7 @@
 
 在 TETR.IO PLUS 的设置页找到  Other skins 项 点击 Edit other skins 来到皮肤更改页 在 Replace: 切换到你要换的哪一项(此皮肤包仅提供了 queue, grid 的文件) 点击 Choose Files 在新窗口内选择你要用的皮肤
 
-署名信息:
+## 署名信息:
 
 原始作者: 加加 ([Twitter - ナイテン](twitter.com/Niten1033)/[YouTube - NitenTeria](www.youtube.com/@Niten1033)/[Jstris - Fragmented](jstris.jezevec10.com/u/Fragmented)/[TETR.IO - TANXLAYER](ch.tetr.io/u/TANXLAYER))
 
@@ -29,4 +29,8 @@
 
 参考来源: 加加(感谢加加愿意给我原始档作为参考><)
 
-使用工具:[Aseprite](https://github.com/aseprite/aseprite), Adobe After Effects 2022
+## 使用工具:
+
+[Aseprite](https://github.com/aseprite/aseprite)
+
+Adobe After Effects 2022
