@@ -25,7 +25,7 @@
 
 原始作者: 加加 ([Twitter - ナイテン](twitter.com/Niten1033)/[YouTube - NitenTeria](www.youtube.com/@Niten1033)/[Jstris - Fragmented](jstris.jezevec10.com/u/Fragmented)/[TETR.IO - TANXLAYER](ch.tetr.io/u/TANXLAYER))
 
-重绘, 动画: MianSoft
+重绘, 动画: [MianSoft](github.com/MianSoft/MianSoft) 
 
 参考来源: 加加(感谢加加愿意给我原始档作为参考><)
 
